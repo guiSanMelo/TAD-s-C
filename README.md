@@ -2,7 +2,6 @@
 
 Estudos e implementações de **Estruturas de Dados** (TADs - Tipos Abstratos de Dados) na linguagem **C**.
 
-> “Nesse repositório estão meus estudos de estruturas de dados”
 
 ## 📚 Estruturas Implementadas
 
